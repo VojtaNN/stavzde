@@ -1,0 +1,3 @@
+/stav
+/zde
+/try
